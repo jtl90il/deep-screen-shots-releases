@@ -1,12 +1,12 @@
 {
-  "displayName": "Deep Screen Shots 0.9.0 revision 24 beta",
+  "displayName": "Deep Screen Shots 0.9.0 revision 25 beta",
   "version": "0.9.0",
-  "revision": 24,
-  "buildId": "DSS-0.9.0-r24",
+  "revision": 25,
+  "buildId": "DSS-0.9.0-r25",
   "channel": "Beta",
-  "installerUrl": "https://github.com/jtl90il/deep-screen-shots-releases/releases/download/DSS-0.9.0-r24-beta/Deep-Screen-Shots-Setup-DSS-0.9.0-r24.exe",
-  "installerSha256": "b1daafd5427b50c1bab553197361884bef323389596f132cadac394ec2ec8e0a",
-  "portableUrl": "https://github.com/jtl90il/deep-screen-shots-releases/releases/download/DSS-0.9.0-r24-beta/Deep-Screen-Shots-Portable-DSS-0.9.0-r24.zip",
-  "portableSha256": "02239aa4f7c5db188b1c93ec6dd8ec03cf5cbd7f261aa9205a1972685ea0ae4a",
-  "publishedAtUtc": "2026-09-20T19:49:54.7739231Z"
+  "installerUrl": "https://github.com/jtl90il/deep-screen-shots-releases/releases/download/DSS-0.9.0-r25-beta/Deep-Screen-Shots-Setup-DSS-0.9.0-r25.exe",
+  "installerSha256": "5345991fe9a39a4d7e26a503a3d28b50ec10b228c4aebc40fc009674e2ed0139",
+  "portableUrl": "https://github.com/jtl90il/deep-screen-shots-releases/releases/download/DSS-0.9.0-r25-beta/Deep-Screen-Shots-Portable-DSS-0.9.0-r25.zip",
+  "portableSha256": "1b5155d800054ad8b11bf06fe0f9bfef43a32ffb7a44a4ac260d38519ea36d48",
+  "publishedAtUtc": "2026-09-20T20:03:03.0725602Z"
 }
