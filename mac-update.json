@@ -1,9 +1,9 @@
 {
-  "version": "0.3.3",
-  "buildId": "DSS-Mac-0.3.3-dev",
-  "releasePage": "https://github.com/jtl90il/deep-screen-shots-releases/releases/tag/DSS-Mac-0.3.3-dev",
-  "arm64Url": "https://github.com/jtl90il/deep-screen-shots-releases/releases/download/DSS-Mac-0.3.3-dev/Deep-Screen-Shots-Mac-0.3.3-dev-arm64.zip",
-  "arm64Sha256": "947e65c5e35e3af8d5d3a39b544dc47bf39d88ea1c436ad9f4f534d63eb39aa2",
-  "x64Url": "https://github.com/jtl90il/deep-screen-shots-releases/releases/download/DSS-Mac-0.3.3-dev/Deep-Screen-Shots-Mac-0.3.3-dev-x64.zip",
-  "x64Sha256": "404467cfefd04832cc1d1e31ef11d54435aad93cf241557c902323dc5a9e2283"
+  "version": "0.3.4",
+  "buildId": "DSS-Mac-0.3.4-dev",
+  "releasePage": "https://github.com/jtl90il/deep-screen-shots-releases/releases/tag/DSS-Mac-0.3.4-dev",
+  "arm64Url": "https://github.com/jtl90il/deep-screen-shots-releases/releases/download/DSS-Mac-0.3.4-dev/Deep-Screen-Shots-Mac-0.3.4-dev-arm64.zip",
+  "arm64Sha256": "8b2dd5d1dfce9c5b0ffb0067b1813c7e64b4464eca301641eb83e4349265232d",
+  "x64Url": "https://github.com/jtl90il/deep-screen-shots-releases/releases/download/DSS-Mac-0.3.4-dev/Deep-Screen-Shots-Mac-0.3.4-dev-x64.zip",
+  "x64Sha256": "ead4f00855c5e18d7bbced96254cf20be0612bfda7e0dee9beef3b1c402f5c33"
 }
